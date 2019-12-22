@@ -15,7 +15,7 @@
             <?php
                 require('menu.php');
             ?>
-            <a href="admin.php" id="admin">Admin</a>
+            <!-- <a href="admin.php" id="admin">Admin</a> -->
 
             <article class="container">
                 <h1>SATRAMA</h1>
